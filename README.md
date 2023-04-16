@@ -1,5 +1,3 @@
-# OwensChan.github.io
-
 👋 Hi, I’m @OwensChan
 
 👀 I’m interested in reading books
